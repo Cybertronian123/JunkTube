@@ -1,0 +1,31 @@
+# ASP.NET Core
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+.idea/
+
+# React
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.env.local
+.env.*.local
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.swp
+*.swo
+*~
