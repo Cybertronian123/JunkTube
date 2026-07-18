@@ -1,0 +1,6 @@
+@JunkTube.Api_HostAddress = http://localhost:5111
+
+GET {{JunkTube.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

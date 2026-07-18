@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="Api/JunkTube.Api/JunkTube.Api.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Core/JunkTube.Application/JunkTube.Application.csproj" />
+    <Project Path="Core/JunkTube.Domain/JunkTube.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/JunkTube.Infrastructure/JunkTube.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/JunkTube.Contracts/JunkTube.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/JunkTube.IntegrationTests/JunkTube.IntegrationTests.csproj" />
+    <Project Path="Tests/JunkTube.UnitTests/JunkTube.UnitTests.csproj" />
+  </Folder>
+</Solution>
